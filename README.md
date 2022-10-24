@@ -4,11 +4,11 @@ So in your terminal window type:
 
 `git clone https://github.com/Ulfenstein768/js-state-management`
 
-Then you will need to install depenedencies:
+Then cd into my-app and then install the depenedencies:
 
 `yarn install`
 
-Then to start the website you need to type:
+Then to start the website type
 
 `yarn start`
 
